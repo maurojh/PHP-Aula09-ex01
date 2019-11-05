@@ -263,7 +263,11 @@ Abra o prompt de comando e acesse a pasta onde irá ficar o dompdf:
 Microsoft Windows [versão 10.0.18362.295]
 (c) 2019 Microsoft Corporation. Todos os direitos reservados.
 
-C:\Users\Aluno&gt;cd C:\wamp64\www\site
+C:\Users\Aluno&gt;cd C:\wamp64\www
+
+C:\wamp64\www&gt;mkdir site
+
+C:\wamp64\www&gt;cd site
 
 C:\wamp64\www\site&gt;
 </pre>
